@@ -1,0 +1,2 @@
+# rexcoin
+The instant cryptocurrency
